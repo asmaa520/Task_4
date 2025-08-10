@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task_4</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">sign_up</string>
+    <string name="or_sign_up_with">or_sign_up_with</string>
+</resources>
